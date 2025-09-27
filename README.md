@@ -32,7 +32,7 @@ Reset app state again,
 Logout. 
 
 Python Packages:
-Selenium
-Pytest
-Allure-Pytest
-WebDriver-Manager
+Selenium,
+Pytest,
+Allure Pytest,
+WebDriver Manager.
