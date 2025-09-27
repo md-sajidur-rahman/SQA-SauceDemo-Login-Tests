@@ -34,7 +34,9 @@ Verify order success,
 Reset app state again, 
 Logout. 
 
-Packages: 
+Components: 
+Google Chrome, 
+Visual Studio Code, 
 Python, 
 Pytest, 
 Selenium, 
