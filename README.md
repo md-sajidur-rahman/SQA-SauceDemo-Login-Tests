@@ -1,6 +1,8 @@
 # SQA SauceDemo.com Login Tests
+
 Test Scenarios: 
 
+Go to saucedemo.com
 Test 1: Locked User Login
 User: locked_out_user,
 Test: Verify error message when trying to login with locked account,
