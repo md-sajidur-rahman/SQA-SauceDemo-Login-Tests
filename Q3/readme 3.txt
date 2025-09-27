@@ -1,4 +1,4 @@
-Test Scenario:
+Test Steps:
 1. Login with performance_glitch_user
 2. Reset app state from menu
 3. Filter products by name (Z to A)
