@@ -1,5 +1,5 @@
 Test Steps:
 
-1. Opens https://www.saucedemo.com/
-2. Logs in with locked_out_user
-3. Verifies the error message is correct
+1. Open https://www.saucedemo.com/
+2. Log in with locked_out_user
+3. Verify the error message is correct
