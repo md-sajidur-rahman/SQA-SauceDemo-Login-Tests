@@ -4,9 +4,9 @@ USERNAME = "standard_user"
 PASSWORD = "secret_sauce"
 
 # Checkout information
-FIRST_NAME = "John"
-LAST_NAME = "Doe"
-ZIP_CODE = "12345"
+FIRST_NAME = "Md Sajidur"
+LAST_NAME = "Rahman"
+ZIP_CODE = "1234"
 
 # Expected messages
 ORDER_SUCCESS_MSG = "Thank you for your order!"
